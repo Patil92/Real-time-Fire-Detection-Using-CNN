@@ -5,6 +5,8 @@ A Real Time Fire Detection Using Convolution Neural Network(CNN) and openCV writ
   
 # OBJECTIVES
 •	The main objective of most fire detection and alarm signalling systems is detecting a fire early so as to initiate various actions. Being able to adequately assess the time when an initiating device may activate is therefore important, especially when undertaking a performance-based assessment and the overall development of a fire safety strategy.
+
 •	The main aim is to provide a general overview of the image processing-based analysis and design process and highlights the benefits. This approach brings to the performance-based design of fire detection systems.
+
 •	The primary is usually the building's main public electrical connection, which must be connected at a fire detection and alarm system dedicated branch circuit. 
 
